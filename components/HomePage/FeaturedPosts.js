@@ -1,4 +1,4 @@
-import classes from "./featured-posts.module.css";
+import styles from "./featured-posts.module.css";
 
 const FeaturedPosts = () => {
   return <div></div>;
